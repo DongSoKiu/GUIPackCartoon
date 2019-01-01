@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 59f0b625614a406468ee087f147489e7, type: 3}
+  m_Name: '[canh_quat_ani]6a66a5ee9cf9e1747a29968066e89757_1_2'
+  m_EditorClassIdentifier: 
+  m_Asset: {fileID: 11400000, guid: 6a66a5ee9cf9e1747a29968066e89757, type: 2}
+  m_Scale: 1
+  m_CSF: 2
+  m_CurrentDataPath: Assets/Assets/Theme_1_Asset/Home_screen/card/Canhquat_animation/canh_quat_ani/
+  m_Data:
+  - m_SearchName: canh_quat_ani_hdr
+    m_SharedTexture: {fileID: 0}
+    m_SharedMaterial: {fileID: 0}
